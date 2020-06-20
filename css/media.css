@@ -1,0 +1,16 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	div {
+		font-size: 10px;
+		background: orange;
+	}
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	div{
+	background: #042A6F;
+	color: white;
+	}
+	
+}
